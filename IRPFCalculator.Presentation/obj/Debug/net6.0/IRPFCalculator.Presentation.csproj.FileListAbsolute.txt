@@ -1,0 +1,15 @@
+C:\Workspace\IRPFCalculator\IRPFCalculator.Presentation\bin\Debug\net6.0\IRPFCalculator.Presentation.deps.json
+C:\Workspace\IRPFCalculator\IRPFCalculator.Presentation\bin\Debug\net6.0\IRPFCalculator.Presentation.dll
+C:\Workspace\IRPFCalculator\IRPFCalculator.Presentation\bin\Debug\net6.0\IRPFCalculator.Presentation.pdb
+C:\Workspace\IRPFCalculator\IRPFCalculator.Presentation\bin\Debug\net6.0\IRPFCalculator.Services.dll
+C:\Workspace\IRPFCalculator\IRPFCalculator.Presentation\bin\Debug\net6.0\IRPFCalculator.Services.pdb
+C:\Workspace\IRPFCalculator\IRPFCalculator.Presentation\obj\Debug\net6.0\IRPFCalculator.Presentation.csproj.AssemblyReference.cache
+C:\Workspace\IRPFCalculator\IRPFCalculator.Presentation\obj\Debug\net6.0\IRPFCalculator.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\IRPFCalculator\IRPFCalculator.Presentation\obj\Debug\net6.0\IRPFCalculator.Presentation.AssemblyInfoInputs.cache
+C:\Workspace\IRPFCalculator\IRPFCalculator.Presentation\obj\Debug\net6.0\IRPFCalculator.Presentation.AssemblyInfo.cs
+C:\Workspace\IRPFCalculator\IRPFCalculator.Presentation\obj\Debug\net6.0\IRPFCalculator.Presentation.csproj.CoreCompileInputs.cache
+C:\Workspace\IRPFCalculator\IRPFCalculator.Presentation\obj\Debug\net6.0\IRPFCalculator.Presentation.csproj.CopyComplete
+C:\Workspace\IRPFCalculator\IRPFCalculator.Presentation\obj\Debug\net6.0\IRPFCalculator.Presentation.dll
+C:\Workspace\IRPFCalculator\IRPFCalculator.Presentation\obj\Debug\net6.0\refint\IRPFCalculator.Presentation.dll
+C:\Workspace\IRPFCalculator\IRPFCalculator.Presentation\obj\Debug\net6.0\IRPFCalculator.Presentation.pdb
+C:\Workspace\IRPFCalculator\IRPFCalculator.Presentation\obj\Debug\net6.0\ref\IRPFCalculator.Presentation.dll

@@ -1,0 +1,12 @@
+C:\Workspace\IRPFCalculator\IRPFCalculator.Services\bin\Debug\net6.0\IRPFCalculator.Services.deps.json
+C:\Workspace\IRPFCalculator\IRPFCalculator.Services\bin\Debug\net6.0\IRPFCalculator.Services.dll
+C:\Workspace\IRPFCalculator\IRPFCalculator.Services\bin\Debug\net6.0\IRPFCalculator.Services.pdb
+C:\Workspace\IRPFCalculator\IRPFCalculator.Services\obj\Debug\net6.0\IRPFCalculator.Services.csproj.AssemblyReference.cache
+C:\Workspace\IRPFCalculator\IRPFCalculator.Services\obj\Debug\net6.0\IRPFCalculator.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\IRPFCalculator\IRPFCalculator.Services\obj\Debug\net6.0\IRPFCalculator.Services.AssemblyInfoInputs.cache
+C:\Workspace\IRPFCalculator\IRPFCalculator.Services\obj\Debug\net6.0\IRPFCalculator.Services.AssemblyInfo.cs
+C:\Workspace\IRPFCalculator\IRPFCalculator.Services\obj\Debug\net6.0\IRPFCalculator.Services.csproj.CoreCompileInputs.cache
+C:\Workspace\IRPFCalculator\IRPFCalculator.Services\obj\Debug\net6.0\IRPFCalculator.Services.dll
+C:\Workspace\IRPFCalculator\IRPFCalculator.Services\obj\Debug\net6.0\refint\IRPFCalculator.Services.dll
+C:\Workspace\IRPFCalculator\IRPFCalculator.Services\obj\Debug\net6.0\IRPFCalculator.Services.pdb
+C:\Workspace\IRPFCalculator\IRPFCalculator.Services\obj\Debug\net6.0\ref\IRPFCalculator.Services.dll

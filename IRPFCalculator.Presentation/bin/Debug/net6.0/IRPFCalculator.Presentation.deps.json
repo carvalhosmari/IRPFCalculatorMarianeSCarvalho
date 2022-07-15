@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IRPFCalculator.Presentation/1.0.0": {
+        "dependencies": {
+          "IRPFCalculator.Services": "1.0.0"
+        },
+        "runtime": {
+          "IRPFCalculator.Presentation.dll": {}
+        }
+      },
+      "IRPFCalculator.Services/1.0.0": {
+        "runtime": {
+          "IRPFCalculator.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IRPFCalculator.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IRPFCalculator.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
