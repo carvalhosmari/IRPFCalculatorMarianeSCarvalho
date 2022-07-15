@@ -36,6 +36,6 @@ O programa deve seguir algumas diretrizes:
 ## Como executar o programa
 
 - Clonar o repositório em uma pasta local: `git clone` 
-- Abra a solução do projeto com o visual studio: arquivo `CalculaIRPF.sln`
+- Abra a solução do projeto com o visual studio: arquivo `IRPFCalculator.sln`
 - Execute o projeto com `CTRL + F5`
 
